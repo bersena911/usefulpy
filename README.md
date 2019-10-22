@@ -1,4 +1,4 @@
-# dummypy
+# UsefulPy
 The most useful functions in everyday life
 
 ## Installation
