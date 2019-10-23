@@ -9,7 +9,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
     name='usefulpy',
     packages=find_packages(),
-    version='0.5',
+    version='0.6',
     license='MIT',
     description='The most useful functions in everyday life',
     long_description=long_description,
@@ -17,7 +17,7 @@ setup(
     author='Mate Bersenadze',
     author_email='matebersenadze@gmail.com',
     url='https://github.com/bersena911/usefulpy',
-    download_url='https://github.com/bersena911/usefulpy/archive/0.5.tar.gz',
+    download_url='https://github.com/bersena911/usefulpy/archive/0.6.tar.gz',
     keywords=['math', 'dummy', 'useful'],
     install_requires=[],
     classifiers=[
