@@ -12,7 +12,7 @@ pip install usefulpy
 ## Usage
 
 ```python
-from usefulpy.useful_math.useful import is_negative, is_ten
+from usefulpy.math import is_negative, is_ten
 
 is_ten(10) # returns 'True'
 is_ten(9) # returns 'False'
