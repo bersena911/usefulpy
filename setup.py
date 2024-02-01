@@ -9,7 +9,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
     name='usefulpy',
     packages=find_packages(),
-    version='0.6',
+    version='0.7',
     license='MIT',
     description='The most useful functions in everyday life',
     long_description=long_description,
